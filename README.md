@@ -1,7 +1,10 @@
 # 个人博客镜像
 
+https://jiapeng.me
+
 ## 文章索引
 
+- [20181208 我的双拼学习方法](20181208-udpn.md)
 - [20200321 seafile-upgrade-from-6.3.4-to-7.0.5](20200321-seafile-upgrade-from-6.3.4-to-7.0.5.md)
 - [20200606 如何理解 I/Q 信号？](20200606-In-phase-and-Quadrature-components.md)
 - [20200917 七牛 + 备案域名 + 免费 SSL + PicGo 搭建 Typora 图床](20200917-markdown%20图床.md)
