@@ -66,4 +66,3 @@ sudo ln -sf python3 python
 
 ![image-20200926153615686](https://img.risinghf.com/20200926-153618-917.png)
 
-## 
