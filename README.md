@@ -14,7 +14,7 @@ https://jiapeng.me
 
 ### 微信
 
-<img src="https://img.risinghf.com/20200919-133931-350.png" alt="8186e4d0072a14703a3712a7f874ffd6" style="zoom:67%;" />
+<img src="https://img.juzuq.com/20200919-133931-350.png" alt="8186e4d0072a14703a3712a7f874ffd6" style="zoom:67%;" />
 
 ### 其他
 [详见 Github 个人主页](https://github.com/JiapengLi/JiapengLi)

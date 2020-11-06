@@ -32,7 +32,7 @@
 > - SSHD 一般默认使用 22端口，配置文件目录 `/etc/ssh/etc/ssh/sshd_config`
 > - RSA 密钥对 Git Bash 中路径为 `~/.ssh/`，对应 Windows 下目录为 `C:\Users\USERNAME\.ssh`
 
-![image-20200926154436352](https://img.risinghf.com/20200926-154438-909.png)
+![image-20200926154436352](https://img.juzuq.com/20200926-154438-909.png)
 
 ## 使用
 
@@ -62,7 +62,7 @@ sudo ln -sf python3 python
 
 设置 http.proxy 字段即可。魔法上网工具需自备。
 
-![image-20200926153705964](https://img.risinghf.com/20200926-153709-043.png)
+![image-20200926153705964](https://img.juzuq.com/20200926-153709-043.png)
 
-![image-20200926153615686](https://img.risinghf.com/20200926-153618-917.png)
+![image-20200926153615686](https://img.juzuq.com/20200926-153618-917.png)
 

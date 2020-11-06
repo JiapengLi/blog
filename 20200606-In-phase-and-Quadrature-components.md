@@ -64,7 +64,7 @@ I(t): s(t)*cos(2πft) = I(t)*cos(2πft)*cos(2πft) + Q(t)*sin(2πft)*cos(2πft)
 > `cos(a)*cos(b) = sin(a)*sin(b) = cos(a+b)/2 + cos(a-b)/2;`
 > `cos(a)*sin(b) = sin(a+b)/2 - sin(a-b)/2;`
 
-![image-20200606165723457](https://img.risinghf.com/20200921-122940-823.png)
+![image-20200606165723457](https://img.juzuq.com/20200921-122940-823.png)
 
 根据上述公式进行变换可以知，解调需要对输入信号（接收信号）进行乘法运算。Q(t) 的解调乘以 sin(2πft)，I(t) 的解调乘以 cos(2πft)。在进行乘法运算后会得到载波频率2倍频的信号，这样采用合适的低通滤波器进行滤波之后可以得到 Q(t) 信号。如果考虑到 Q(t) 和 I(t) 本身，解调过程将变得更为复杂。
 
@@ -76,15 +76,15 @@ s(t) 为红色曲线，I 信号为黄色曲线，Q 信号为红色曲线。
 
 #### I(t) = Q(t) = 1
 
-![img](https://img.risinghf.com/20200921-122937-512.JPG)
+![img](https://img.juzuq.com/20200921-122937-512.JPG)
 
 #### I(t) > Q(t)
 
-![img](https://img.risinghf.com/20200921-122935-032.JPG)
+![img](https://img.juzuq.com/20200921-122935-032.JPG)
 
 #### I(t) < Q(t)
 
-![img](https://img.risinghf.com/20200921-122931-973.JPG)
+![img](https://img.juzuq.com/20200921-122931-973.JPG)
 
 ### BPSK（Binary phase-shift keying）
 
@@ -92,7 +92,7 @@ I(t) = -1 / 1，Q(t) = 0，这样共用 2 种情况。
 
 如下图红色为 I(t) ，绿色为调制后的信号 s(t)。
 
-![](https://img.risinghf.com/20200921-122919-970.png)
+![](https://img.juzuq.com/20200921-122919-970.png)
 
 如上图可见，每次在 I(t) 数据有跳变时，输出信号 s(t) 发生相位变化。
 
@@ -102,7 +102,7 @@ I(t) = -1 / 1，Q(t) = - 1 / 1，这样可以共用 4 种情况。
 
 如下图红色为 I(t)，蓝色为 Q(t) ，绿色为调制后的信号 s(t)。
 
-![](https://img.risinghf.com/20200921-122912-911.png)
+![](https://img.juzuq.com/20200921-122912-911.png)
 
 如上图可见，每次在 I(t) 或 Q(t) 数据有跳变时，输出信号发生相位变化。
 
